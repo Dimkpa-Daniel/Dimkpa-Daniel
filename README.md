@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **amazing projects**
 
-- 🌱 I’m currently learning **typescript, node js**
+- 🌱 I’m currently learning **typescript and node js**
 
 - 👯 I’m looking to collaborate on **projects**
 
