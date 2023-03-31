@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimkpa Daniel</h1>
-<h3 align="center">Resourceful Front End Web Developer, bringing in-depth knowledge of latest technology trends to produce clean website design. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.</h3>
+<h3 align="center">Resourceful MERN Stack Developer, bringing in-depth knowledge of latest technology trends to produce clean website design. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimkpa-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="dimkpa-daniel" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **amazing projects**
 
-- 🌱 I’m currently learning **typescript and node js**
+- 🌱 I’m currently learning **typescript**
 
 - 👯 I’m looking to collaborate on **projects**
 
